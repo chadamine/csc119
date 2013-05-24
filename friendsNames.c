@@ -12,8 +12,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
 
 #define A_MAX 20
 #define F_NUM 5
